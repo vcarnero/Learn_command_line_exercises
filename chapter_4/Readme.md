@@ -1,1 +1,4 @@
-Can you make a temp directory? mkdir temp dir
+Can you make a temp directory? 
+mkdir temp
+Can you make a log directory in your class directory?
+mkdir class/log
