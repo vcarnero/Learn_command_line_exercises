@@ -1,6 +1,7 @@
 chapter 7
 
-rmdir
+ # rmdir
+ 
 /Users/veronica/workspace/davinci_coders_t1_2016/homework/Learn_command_line_exercises/chapter_7/tmp/stuff/things/frank/joe/alex
 
 /Users/veronica/workspace/davinci_coders_t1_2016/homework/Learn_command_line_exercises/chapter_7/tmp/stuff/things/frank/joe
@@ -12,3 +13,7 @@ rmdir
 /Users/veronica/workspace/davinci_coders_t1_2016/homework/Learn_command_line_exercises/chapter_7/tmp/stuff
 
 /Users/veronica/workspace/davinci_coders_t1_2016/homework/Learn_command_line_exercises/chapter_7/tmp
+
+# Can you removev the tmp directory? rmdir
+# Let's remove the tmp directory? rmdir
+
