@@ -8,4 +8,8 @@ mine ..
 What does the .. argument to cd do? '..' is the folder above the current folder - the folder that contains the current folder.
 
 
+Can you cd into the temp directory?
+Why don't we go into the temp directory?
+Can you go to the slash temp directory?
+Can you go to the slash temp slash log directory?
 
