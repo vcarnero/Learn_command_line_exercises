@@ -13,6 +13,7 @@ Finding the path in my graphical file browser
 5. Go into folder chapter_2
 
 #The faster way to find chapter_2 in finder is:
+double click 'chapter 2' in finder, copy that file and enter it in command line.
 cd /Users/veronica/workspace/davinci_coders_t1_2016/homework/Learn_command_line_exercises/chapter_2
 
 #DO MORE EXERCISE
