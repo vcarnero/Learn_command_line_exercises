@@ -12,10 +12,10 @@ Finding the path in my graphical file browser
 4. Go into the learn_command_line_exercises folder
 5. Go into folder chapter_2
 
-#the faster way to find chapter_2 in finder is:
+#The faster way to find chapter_2 in finder is:
 cd /Users/veronica/workspace/davinci_coders_t1_2016/homework/Learn_command_line_exercises/chapter_2
 
-
+#DO MORE EXERCISE
 print working directory, pwd
 print working directory, pwd
 print working directory, pwd
