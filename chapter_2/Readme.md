@@ -15,7 +15,7 @@ Charlies-MacBook-Pro:in_class $cd ~
 
 veronica
 Charlies-MacBook-Pro:~ $ls
-Applications         Downloads            Projects
+>Applications         Downloads            Projects
 BitTorrent Sync      Library              Public
 Creative Cloud Files Movies               pslog.txt
 Desktop              Music                workspace
