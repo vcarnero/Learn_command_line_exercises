@@ -1,9 +1,16 @@
->cd to the joe directory with one command.
-#(cd ~/joe)
+#cd to the joe directory with one command.
+>cd ~/workspace/davinci_coders_t1_2016/homework/Learn_command_line_exercises/chapter_4/temp/stuff/things/frank/joe/
+
 #cd back to temp with one command, but not further above that.
->(cd ..)
+ >veronica(master) Veronica Carnero
+ Charlies-MacBook-Pro:joe $cd ../../../../
+ 
+ >veronica(master) Veronica Carnero
+ Charlies-MacBook-Pro:temp $
+ 
 #Find out how to cd to your "home directory" with one command.
 >(cd ~)
+
 #cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.).
 >/Users/veronica/workspace/davinci_coders_t1_2016/homework/Learn_command_line_exercises/chapter_5
 mine ..
