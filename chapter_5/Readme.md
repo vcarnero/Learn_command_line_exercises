@@ -62,4 +62,7 @@ mine ..
  Charlies-MacBook-Pro:tmp $
 
 #Can you go to the slash temp slash log directory?
+>veronica
+ Charlies-MacBook-Pro:tmp $cd /tmp/log
+ bash: cd: /tmp/log: No such file or directory
 
