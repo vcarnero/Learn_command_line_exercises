@@ -26,7 +26,13 @@ mine ..
  veronica(master) Veronica Carnero
  Charlies-MacBook-Pro:temp $
  
-Why don't we go into the temp directory?
-Can you go to the slash temp directory?
+#Why don't we go into the temp directory?
+>veronica(master) Veronica Carnero
+ Charlies-MacBook-Pro:chapter_5 $cd temp/
+ 
+ veronica(master) Veronica Carnero
+ Charlies-MacBook-Pro:temp $
+ 
+#Can you go to the slash temp directory?
 Can you go to the slash temp slash log directory?
 
