@@ -30,4 +30,4 @@ I received the error because I had an open file in my directory, so I could not 
   Readme.md    blah.txt     ch9testtouch foo.txt      iamcool.txt
 
 # Explain what happens if you touch an existing file
- when you touch an existing file it updates the access date / modification dat of a file.
+ when you touch an existing file it updates the access date / modification date of a file.
