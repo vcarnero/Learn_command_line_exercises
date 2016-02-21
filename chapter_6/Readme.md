@@ -19,6 +19,7 @@ ls
 #What files are in your home directory?
 veronica(master) Veronica Carnero
    Charlies-MacBook-Pro:chapter_6 $ls ~
+   
    Applications         Documents            Music                pslog.txt
    BitTorrent Sync      Downloads            Pictures             workspace
    Creative Cloud Files Library              Projects
@@ -28,6 +29,7 @@ veronica(master) Veronica Carnero
 #What's in slash temp?
 veronica(master) Veronica Carnero
    Charlies-MacBook-Pro:chapter_6 $ls /tmp
+   
    2617B9CB-6182-48DF-860D-AC9EF9EDEEE0_IN
    2617B9CB-6182-48DF-860D-AC9EF9EDEEE0_OUT
    481D313E-A030-4E94-B8A9-9CC729C635BC
