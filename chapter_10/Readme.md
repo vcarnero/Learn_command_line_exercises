@@ -18,6 +18,8 @@ Only for windows. Rubocopy- Robust file copy is designed for copying entire fold
 
 #Can you copy .bash_profile in your home directory to the current directory?
 
+cp .bash_profile workspace/davinci_coders_t1_2016/homework/Learn_command_line_exercises/chapter_10/tmp
+
 
 
 
