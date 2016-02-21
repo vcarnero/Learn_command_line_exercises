@@ -6,7 +6,7 @@ ls
 #Alternative "english" ways of asking for a list of files:
 
 >ls
->list directory
+
 
 #What's in the tmp directory?
   veronica(master) Veronica Carnero
