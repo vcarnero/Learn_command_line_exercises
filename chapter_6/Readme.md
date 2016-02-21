@@ -17,16 +17,16 @@ ls
 >ls
 
 #What files are in your home directory?
-```veronica(master) Veronica Carnero
+veronica(master) Veronica Carnero
    Charlies-MacBook-Pro:chapter_6 $ls ~
    Applications         Documents            Music                pslog.txt
    BitTorrent Sync      Downloads            Pictures             workspace
    Creative Cloud Files Library              Projects
    Desktop              Movies               Public
-```
+
  
 #What's in slash temp?
-```veronica(master) Veronica Carnero
+veronica(master) Veronica Carnero
    Charlies-MacBook-Pro:chapter_6 $ls /tmp
    2617B9CB-6182-48DF-860D-AC9EF9EDEEE0_IN
    2617B9CB-6182-48DF-860D-AC9EF9EDEEE0_OUT
@@ -43,7 +43,6 @@ ls
    com.adobe.AdobeIPCBroker.ctrl-veronica
    com.apple.launchd.5831n5Y8qo
    com.apple.launchd.Ho7uJPr1br
-```
  
 
 
