@@ -12,8 +12,11 @@
 >(cd ~)
 
 #cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.).
->/Users/veronica/workspace/davinci_coders_t1_2016/homework/Learn_command_line_exercises/chapter_5
-mine ..
+>veronica
+ Charlies-MacBook-Pro:~ $cd documents
+ 
+ veronica
+ Charlies-MacBook-Pro:documents $
 
 #What does the .. argument to cd do?
  >'..' is the folder above the current folder - the folder that contains the current folder.
@@ -64,5 +67,5 @@ mine ..
 #Can you go to the slash temp slash log directory?
 >veronica
  Charlies-MacBook-Pro:tmp $cd /tmp/log
- bash: cd: /tmp/log: No such file or directory
+ 
 
