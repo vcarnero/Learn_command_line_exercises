@@ -9,7 +9,8 @@ Only for windows. Rubocopy- Robust file copy is designed for copying entire fold
 
 #Copy a file to your home directory or desktop.
 
-  cp iamcool.txt tmp/
+  cp iamcool.txt tmp/ 
+  cp iamcool.txt ~
 
 #Can you copy the foo.txt file to slash temp?  (Create foo.txt first...)
 
