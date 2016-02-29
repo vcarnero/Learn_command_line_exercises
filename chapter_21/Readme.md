@@ -11,4 +11,7 @@ When I first put 'env' a lot of output. After scrolling through everything I fou
   HOME=/Users/veronica
 
 #Can you set your environment to have DEBUG set to true?
+  export DEBUG="True"
+       echo $DEBUG
+       env | grep DEBUG 
   
