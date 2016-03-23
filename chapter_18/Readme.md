@@ -14,7 +14,8 @@ again, similar. Important that "" make it case sensitive so it will find EXACTLY
 #Can you print all the lines in text files that have your first and last name in them?
 
   grep 'veronica carnero' foo.txt
-note i had to add my name to the foo.txt before it could find it.
+  grep 'veronica carnero' *.txt
+
 
 #Add a comment to the Readme.md that explains what the -i option to grep accomplishes.
 (-i) ignores case with grep.
