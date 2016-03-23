@@ -13,7 +13,6 @@ again, similar. Important that "" make it case sensitive so it will find EXACTLY
 
 #Can you print all the lines in text files that have your first and last name in them?
 
-  grep 'veronica carnero' foo.txt
   grep 'veronica carnero' *.txt
 
 
